@@ -1,0 +1,21 @@
+tenure_months,monthly_charges,total_charges,contract_type,payment_method,internet_service,tech_support,num_products,is_senior,has_partner,churn
+1,70,70,Month-to-month,Electronic check,Fiber optic,No,1,0,0,Yes
+2,85,170,Month-to-month,Mailed check,Fiber optic,No,1,0,1,Yes
+3,55,165,Month-to-month,Electronic check,DSL,No,1,0,0,Yes
+6,65,390,Month-to-month,Bank transfer,Fiber optic,No,2,0,1,Yes
+8,75,600,Month-to-month,Credit card,Fiber optic,No,2,1,0,Yes
+10,40,400,One year,Bank transfer,DSL,Yes,2,0,1,No
+12,45,540,One year,Credit card,DSL,Yes,2,0,1,No
+15,60,900,One year,Bank transfer,Fiber optic,Yes,3,0,1,No
+18,35,630,Two year,Mailed check,DSL,Yes,2,0,0,No
+20,30,600,Two year,Credit card,No,Yes,1,0,0,No
+22,55,1210,Two year,Bank transfer,Fiber optic,Yes,3,0,1,No
+24,50,1200,Two year,Credit card,DSL,Yes,2,0,1,No
+26,80,2080,One year,Electronic check,Fiber optic,No,2,1,1,Yes
+28,25,700,Two year,Bank transfer,No,Yes,1,0,1,No
+30,65,1950,One year,Credit card,Fiber optic,Yes,3,0,1,No
+32,90,2880,Month-to-month,Electronic check,Fiber optic,No,2,0,0,Yes
+34,45,1530,Two year,Mailed check,DSL,Yes,2,0,1,No
+36,38,1368,Two year,Bank transfer,DSL,Yes,2,0,1,No
+40,72,2880,One year,Credit card,Fiber optic,Yes,3,0,1,No
+42,95,3990,Month-to-month,Electronic check,Fiber optic,No,2,1,0,Yes
